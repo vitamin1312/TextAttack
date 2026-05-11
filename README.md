@@ -40,6 +40,7 @@ To collect results use [`collect.py`](./collect.py)
 | deepwordbug20 | 74.66 | 18.58 | 21.1 | 72.94 | 52.98 | 1.15 |
 | deepwordbug75 | 67.66 | 19.72 | 30.5 | 65.83 | 49.54 | 1.38 |
 | textfooler20 | 73.51 | 23.62 | 21.79 | 54.36 | 52.06 | 15.02 |
+You can check all results [here](./results)
 
 # Additional information
 [Pretrained models](https://drive.google.com/drive/u/1/folders/1tlEHfayVU0AjjvCmlgKu1JScYaNuSGdT)
