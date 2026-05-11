@@ -1,0 +1,1 @@
+python -m pip install -q "textattack[tensorflow,optional]==0.3.10"

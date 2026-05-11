@@ -3,8 +3,6 @@ set -euo pipefail
 
 export PYTHONWARNINGS="ignore::SyntaxWarning"
 
-python -m pip install -q "textattack[tensorflow,optional]==0.3.10"
-
 rm -rf outputs results
 mkdir -p outputs results
 
